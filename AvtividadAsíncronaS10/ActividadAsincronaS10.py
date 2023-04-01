@@ -33,3 +33,5 @@ total_descuento = total - descuento
 if descuento > 0:
     print("Se ha aplicado un descuento de " + str(descuento) + " (" + str(descuento/total*100) + "%)")
 print("El total a pagar es: ", total_descuento)
+print("")
+print("FIN DEL PROGRAMA")
